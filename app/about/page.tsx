@@ -72,7 +72,7 @@ export default function About() {
                   className="relative h-[400px] overflow-hidden rounded-lg"
                 >
                   <Image
-                    src="./truck01.jpg?height=400&width=600"
+                    src="/truck01.jpg"
                     alt="Modern truck fleet"
                     fill
                     className="object-cover transition-transform duration-300 group-hover:scale-105"

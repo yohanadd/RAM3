@@ -15,77 +15,77 @@ export default function Gallery() {
 
   const galleryImages = [
     {
-      src: "./image3.JPG?height=400&width=600",
+      src: "/image3.JPG?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
     {
-      src: "./image4.JPG?height=400&width=600",
+      src: "/image4.JPG?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
     {
-      src: "./image5.JPG?height=400&width=600",
+      src: "/image5.JPG?height=400&width=600",
       alt: "Truck at loading dock",
       category: "Fleet",
     },
     {
-      src: "./image6.JPG?height=400&width=600",
+      src: "/image6.JPG?height=400&width=600",
       alt: "Truck at loading dock",
       category: "Fleet",
     },
     {
-      src: "./image7.JPG?height=400&width=600",
+      src: "/image7.JPG?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
     {
-      src: "./image8.JPG?height=400&width=600",
+      src: "/image8.JPG?height=400&width=600",
       alt: "Aerial view of trucks at distribution center",
       category: "Fleet",
     },
     {
-      src: "./image9.JPG?height=400&width=600",
+      src: "/image9.JPG?height=400&width=600",
       alt: "Truck driver with delivery",
       category: "Fleet",
     },
     {
-      src: "./image10.JPG?height=400&width=600",
+      src: "/image10.JPG?height=400&width=600",
       alt: "Aerial view of trucks at distribution center",
       category: "Fleet",
     },
     {
-      src: "./image11.JPG?height=400&width=600",
+      src: "/image11.JPG?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
     {
-      src: "./image12.JPG?height=400&width=600",
+      src: "/image12.JPG?height=400&width=600",
       alt: "Truck at loading dock",
       category: "Fleet",
     },
     {
-      src: "./image13.JPG?height=400&width=600",
+      src: "/image13.JPG?height=400&width=600",
       alt: "Truck being maintained",
       category: "Fleet",
     },
     {
-      src: "./image14.JPG?height=400&width=600",
+      src: "/image14.JPG?height=400&width=600",
       alt: "Truck being loaded with cargo",
       category: "Fleet",
     },
     {
-      src: "./image15.jpg?height=400&width=600",
+      src: "/image15.jpg?height=400&width=600",
       alt: "Truck parked in warehouse",
       category: "Fleet",
     },
     {
-      src: "./image16.jpg?height=400&width=600",
+      src: "/image16.jpg?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
     {
-      src: "./image17.jpg?height=400&width=600",
+      src: "/image17.jpg?height=400&width=600",
       alt: "Truck near warehouse",
       category: "Fleet",
     },
